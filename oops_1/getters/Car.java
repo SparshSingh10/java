@@ -1,4 +1,4 @@
-package oops_1;
+package getters;
 
 public class Car {
 

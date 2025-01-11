@@ -1,4 +1,4 @@
-package oops_1;
+package oops_1.getters;
 
 public class Main {
     public static void main(String[] args) {
