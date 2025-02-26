@@ -1,0 +1,4 @@
+69, Slave1, 4
+22, Slave2, 7
+220, Slave3, 3
+1, slave4, 5
